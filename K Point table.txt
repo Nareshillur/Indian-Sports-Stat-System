@@ -1,0 +1,12 @@
+1 U_Mumba			131	81	42	8	61.83	32.06	6.10
+2 Patna_Pirates			134	70	51	13	52.23	38.05	9.70
+3 Bengaluru_Bulls		130	60	62	8	46.15	47.69	6.15
+4 Jaipur_Pink_Panthers		126	54	61	11	42.85	48.41	8.73
+5 Telugu_Titans			126	51	60	15	40.47	47.61	11.90
+6 Puneri_Paltan			128	50	67	11	39.06	52.34	8.59
+7 Bengal_Warriors		129	59	55	15	45.73	42.63	11.62
+8 Gujarat_Fortune_Giants	71	41	23	7	57.74	32.39	9.85
+9 Dabang_Delhi			126	47	69	10	37.30	54.76	7.93
+10 Haryana_Steelers		68	32	29	7	47.05	42.64	10.29
+11 UP_Yoddha			71	31	30	10	43.66	42.25	14.08
+12 Tamil_Thalaivas		66	15	42	9	22.72	63.63	13.63

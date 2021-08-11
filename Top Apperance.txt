@@ -1,0 +1,10 @@
+1	Mandar_Rao_Dessai	97
+2	Narayan_Das	90
+3	Subrata_Pal	85
+4	Lenny_Rodrigues	85
+5	Harmanjot_Khabra	86
+6	Sandesh_Jhingan	76
+7	Rahul_Bheke	77
+8	Tiri	72
+9	Pritam_Kotal	72
+10	Sunil_Chhetri	74
